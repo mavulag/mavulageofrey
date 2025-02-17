@@ -1,6 +1,6 @@
 <h2 align="center">
-  Portfolio Website - v1.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">mavula</a>
+  Portfolio Website - v1.0.0<br/>
+  <a href="https://mavulageofrey.onrender.com" target="_blank">mavula</a>
 </h2>
 <div align="center">
   <!-- <img alt="Demo" src="./Images/readme-img1.png" /> -->
@@ -20,9 +20,9 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/mavulag/mavulageofrey/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/mavulag/mavulageofrey/issues">Request Feature</a>
 </h3>
 
 ## TL;DR
@@ -35,12 +35,12 @@ My personal portfolio <a href="https://" target="_blank">mavula</a> which featur
 
 This project was built using these technologies.
 
-- React.js
+- React.js (Vite)
 - Node.js
 - Express.js
 - CSS3
 - VsCode
-- Vercel
+- Render
 
 ## Features
 
@@ -58,10 +58,10 @@ Clone down this repository. You will need `node.js` and `git` installed globally
 
 1. Installation: `npm install`
 
-2. In the project directory, you can run: `npm start`
+2. In the project directory, you can run: `npm run dev`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
 The page will reload if you make edits.
 
 ## Usage Instructions
